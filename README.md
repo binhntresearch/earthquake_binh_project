@@ -1,1 +1,1 @@
-# demo_binh_project
+# earthquake_binh_project
